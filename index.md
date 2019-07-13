@@ -3,7 +3,7 @@ title: Introducción
 layout: post
 ---
 
-## Quotation
+## 语录
 
 >**Wir müssen wissen, wir werden wissen**
 <br/>- David Hilbert
