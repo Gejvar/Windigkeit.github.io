@@ -3,7 +3,7 @@ title: Why Blog
 layout: post
 ---
 
-## Quote
+## Quotation
 
 >„Wir müssen wissen, wir werden wissen“ - David Hilbert
 
