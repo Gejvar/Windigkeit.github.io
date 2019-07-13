@@ -7,6 +7,8 @@ layout: post
 
 >**Wir müssen wissen, wir werden wissen.**
 <br/>- David Hilbert
+>**臣為孟軻死，死有餘榮**
+<br/>- 《明史·錢唐傳》
 
 ## 社交帐号
 
