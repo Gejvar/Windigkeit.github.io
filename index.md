@@ -5,10 +5,10 @@ layout: post
 
 ## Quotation
 
->**Wir müssen wissen, wir werden wissen** - David Hilbert
+>**Wir müssen wissen, wir werden wissen** 
+                              <br/>- David Hilbert
 
-
-## Social Media
+## 社交媒体
 
 [豆瓣](https://www.douban.com/people/Jegvar)
 [饭否](http://fanfou.com/Jegvar)
