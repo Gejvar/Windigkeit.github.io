@@ -6,7 +6,7 @@ layout: post
 ## Quotation
 
 >**Wir müssen wissen, wir werden wissen.**
-													<br/>- David Hilbert
+<br/>- David Hilbert
 
 ## 社交媒体
 
