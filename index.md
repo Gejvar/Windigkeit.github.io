@@ -8,7 +8,7 @@ layout: post
 >**Wir müssen wissen, wir werden wissen.**
 <br/>- David Hilbert
 
-## 社交媒体
+## 社交帐号
 
 [豆瓣](https://www.douban.com/people/Jegvar)
 [饭否](http://fanfou.com/Jegvar)
