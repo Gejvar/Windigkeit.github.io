@@ -3,16 +3,21 @@ title: Why Blog
 layout: post
 ---
 
-## 对博客的理解
+## Quote
 
-我们每个人的在网络上产生的数据越来越多，这些信息是我们在互联网上存在过的痕迹，值得我们认真对待。但是它们被分散分布在各个网站上。很多时候我们很难将它们聚合在一起，而且各个网站的信息排布方式也没有办法自由控制，所以我们需要一个可以由自己主宰的空间——博客。
+>"Wir müssen wissen, wir werden wissen" - David Hilbert
 
-通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间。
-
-分类有助于我们对信息的隔离，例如我把自己的记录分成这几类：技术、工具、资源、生活、读书和旅游。这是我生活重中最重要的几个类别，我希望把自己的一些心得和尝试写在相应分类中。
-
-## 博客平台
+## 博客说明
 
 这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
 
 本博客的源码托管在 [Github](https://github.com/Windigkeit/Windigkeit.github.io) 上，如果有任何改进意见，欢迎讨论。
+
+## 社交帐号
+
+[豆瓣](https://www.douban.com/people/Jegvar)
+[饭否](http://fanfou.com/Jegvar)
+[B站](https://space.bilibili.com/10272827)
+[微博](https://weibo.com/u/7133912465)
+[Github](https://github.com/Windigkeit/Windigkeit.github.io)
+
