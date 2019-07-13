@@ -5,7 +5,7 @@ layout: post
 
 ## Quotation
 
->**Wir müssen wissen, wir werden wissen.**
+>**Wir müssen wissen, wir werden wissen**
 <br/>- David Hilbert
 
 >**臣為孟軻死，死有餘榮**
