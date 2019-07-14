@@ -9,7 +9,7 @@ layout: post
 <br/>- David Hilbert
 
 >**臣為孟軻死，死有餘榮**
-<br/>- 《明史·錢唐傳》
+<br/>-「明史·錢唐傳」
 
 ## 社交帐号
 
