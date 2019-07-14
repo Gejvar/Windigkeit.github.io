@@ -11,9 +11,6 @@ layout: post
 >**Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen**
 <br/>- Karl Marx
 
->**ὁ ἄνθρωπος φύσει πολιτικὸν ζῷον**
-<br/>- Ἀριστοτέλης
-
 >**臣為孟軻死，死有餘榮**
 <br/>-「明史·錢唐傳」
 
