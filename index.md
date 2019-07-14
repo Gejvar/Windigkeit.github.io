@@ -8,9 +8,6 @@ layout: post
 >**Wir müssen wissen, wir werden wissen**
 <br/>- David Hilbert
 
->**Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen**
-<br/>- Karl Marx
-
 >**臣為孟軻死，死有餘榮**
 <br/>-「明史·錢唐傳」
 
