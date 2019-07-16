@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《政治科学》（罗斯金）读书笔记 11-15章
+title: 罗斯金《政治科学》读书笔记 11-15章
 category: 读书
 keywords: 阅读,罗斯金,政治学
 ---
