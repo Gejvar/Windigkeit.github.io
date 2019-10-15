@@ -5,7 +5,7 @@ category: 读书
 keywords: 阅读,笔记
 ---
 
-原文：[<u>这是一个不幸者的幸运史</u>](https://mp.weixin.qq.com/s/gEJY5b1fbuTaAX9OMfaHuw)
+    原文：[<u>这是一个不幸者的幸运史</u>](https://mp.weixin.qq.com/s/gEJY5b1fbuTaAX9OMfaHuw)
 
 那么，如何梳理学术著作的核心框架呢？我的方法是写作学术读书笔记。学术笔记不是抒情，也不是感想，更不是无病呻吟。
 
